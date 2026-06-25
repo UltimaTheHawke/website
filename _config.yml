@@ -15,8 +15,8 @@ ga4: # Google Analytics 4 measurement ID, for e.g. G-XXXXXXX (optional). Remove 
 twitter:
   username: ChaotixTF2 # Used for SEO
 image:
-  path: assets/images/example.jpg # Used for SEO (og:image, twitter:image)
-  type: jpeg # File format of image.
+  path: https://files.catbox.moe/k0gjth.png # Used for SEO (og:image, twitter:image)
+  type: png # File format of image.
   height: 100 # Pixels
   width: 100
   alt: logo
