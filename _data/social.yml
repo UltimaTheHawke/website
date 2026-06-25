@@ -3,32 +3,32 @@
   icon: ri:youtube-fill
   color: '#FF0000'
 
-- name: twitch
-  url: http://twitch.tv/chaotixtf2
-  icon: ri:youtube-fill
-  color: '#FF0000'
-
-- name: discord
-  url: https://discord.gg/amn3JSpskQ
-  icon: ri:facebook-fill
-  color: '#1877F2'
-
-- name: youtube2
-  url: https://www.youtube.com/@ChaotixIX
-  icon: ri:instagram-fill
-  color: '#E4405F'
-
-- name: x
+- name: twitter
   url: https://x.com/ChaotixTF2
   icon: ri:twitter-x-fill
   color: '#1D9BF0'
 
+- name: discord
+  url: https://discord.gg/amn3JSpskQ
+  icon: ri:discord-fill
+  color: '#5865F2'
+
+- name: twitch
+  url: http://twitch.tv/chaotixtf2
+  icon: ri:twitch-fill
+  color: '#A970FF'
+
+- name: youtube2
+  url: https://www.youtube.com/@ChaotixIX
+  icon: ri:youtube-line
+  color: '#6364FF'
+
 - name: bluesky
   url: https://bsky.app/profile/chaotix.live
-  icon: ri:mastodon-fill
-  color: '#6364FF'
+  icon: ri:bluesky-fill
+  color: '#006AFF'
 
 - name: steam
   url: https://steamcommunity.com/id/Chaotix_/
-  icon: ri:whatsapp-fill
-  color: '#25D366'
+  icon: ri:steam-fill
+  color: '#e1e1e1'
