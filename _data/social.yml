@@ -5,7 +5,7 @@
 
 - name: twitter
   url: https://x.com/ChaotixTF2
-  icon: ri:twitter-x-fill
+  icon: ri:twitter-fill
   color: '#1D9BF0'
 
 - name: discord
