@@ -1,29 +1,34 @@
-- name: facebook
-  url: https://www.facebook.com/example
+- name: youtube
+  url: https://www.youtube.com/@chaotixtf2
+  icon: ri:youtube-fill
+  color: '#FF0000'
+
+- name: twitch
+  url: http://twitch.tv/chaotixtf2
+  icon: ri:youtube-fill
+  color: '#FF0000'
+
+- name: discord
+  url: https://discord.gg/amn3JSpskQ
   icon: ri:facebook-fill
   color: '#1877F2'
 
-- name: instagram
-  url: https://www.instagram.com/example
+- name: youtube2
+  url: https://www.youtube.com/@ChaotixIX
   icon: ri:instagram-fill
   color: '#E4405F'
 
 - name: x
-  url: https://x.com/example
+  url: https://x.com/ChaotixTF2
   icon: ri:twitter-x-fill
   color: '#1D9BF0'
 
-- name: mastodon
-  url: https://mastodon.social/@example
+- name: bluesky
+  url: https://bsky.app/profile/chaotix.live
   icon: ri:mastodon-fill
   color: '#6364FF'
 
-- name: whatsapp
-  url: https://wa.me/1XXXXXXXXXX
+- name: steam
+  url: https://steamcommunity.com/id/Chaotix_/
   icon: ri:whatsapp-fill
   color: '#25D366'
-
-- name: youtube
-  url: https://www.youtube.com/@example
-  icon: ri:youtube-fill
-  color: '#FF0000'
